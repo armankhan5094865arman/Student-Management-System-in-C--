@@ -1,0 +1,5 @@
+101|Arman khan|98
+102|Muhammad shah|76
+0||0
+103|Majid shah |34
+105|abdul Allah|94
